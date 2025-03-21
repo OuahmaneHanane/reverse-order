@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+
+}
+img{
+    width: 600px;
+}
+p{
+    max-width: 90%;
+}
+button{
+    width: 150px;
+    height: 30px;
+    border-radius: 10px;
+}
